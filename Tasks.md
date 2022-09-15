@@ -8,6 +8,10 @@ This project exists to create an interface that allows a user to create and mana
 
 Enumerate the base requirements for this project to be complete
 
+### Runs inside Docker container
+
+Project must run inside a Docker container
+
 ### Website launches
 
 Project must run on a webserver
